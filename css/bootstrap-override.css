@@ -43,7 +43,6 @@
 }
 .btn-primary {
 	background-color: #0088cc;
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0088cc));
 	background-image: -webkit-linear-gradient(top, #0088cc, #0088cc);
 	background-image: -o-linear-gradient(top, #0088cc, #0088cc);
 	background-image: linear-gradient(to bottom, #0088cc, #0088cc);
@@ -56,9 +55,7 @@
 .btn-primary.disabled,
 .btn-primary[disabled] {
 	color: #ffffff;
-	background-color: #39ade6;
   	background-color: #39ade6;
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#39ade6), to(#39ade6));
 	background-image: -webkit-linear-gradient(top, #39ade6, #39ade6);
 	background-image: -o-linear-gradient(top, #39ade6, #39ade6);
 	background-image: linear-gradient(to bottom, #39ade6, #39ade6);
@@ -67,7 +64,6 @@
 }
 .btn-danger {
 	background-color: #a62300;
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#a62300), to(#a62300));
 	background-image: -webkit-linear-gradient(top, #a62300, #a62300);
 	background-image: -o-linear-gradient(top, #a62300, #a62300);
 	background-image: linear-gradient(to bottom, #a62300, #a62300);
@@ -81,7 +77,6 @@
 .btn-danger[disabled] {
 	color: #ffffff;
 	background-color: #bf4e30;
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#bf4e30), to(#bf4e30));
 	background-image: -webkit-linear-gradient(top, #bf4e30, #bf4e30);
 	background-image: -o-linear-gradient(top, #bf4e30, #bf4e30);
 	background-image: linear-gradient(to bottom, #bf4e30, #bf4e30);

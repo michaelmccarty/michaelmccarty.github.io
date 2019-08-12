@@ -57,8 +57,8 @@ table {
 
 
 #header_container {
-	/**background-color:#1E3D5A;**/
-	background: #fff url('../images/txtDarkBground.png');
+	
+	background: #fff;
 	
 }
 
@@ -70,7 +70,6 @@ table {
 #container {
 	margin:0 auto; 
 	min-width: 1000px;
-	/*max-width:1000px;*/
 	min-height: 100%;
 	margin-bottom: -30px;
 	position: relative;
@@ -94,7 +93,6 @@ table {
 	position: relative;	
 	margin:0 auto; 
 	min-width: 1000px;
-	/*max-width:1000px;*/
 	color:white;
 	font-size:small;
 	text-align:center;
@@ -102,7 +100,7 @@ table {
 }
 
 #footer_container{
-	background: #262626; /*url('../images/txtDarkBground.png');*/
+	background: #262626;
 }
 
 .clearfooter {
