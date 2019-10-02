@@ -412,3 +412,12 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+
+@media (max-width: 768px){
+	.titleMenu{
+		display: flex;
+		position: absolute;
+		top: 0;
+		right: 1rem;
+	}
+}
